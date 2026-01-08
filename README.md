@@ -14,3 +14,15 @@ Personal Finance Tracker built with Python to manage income, expenses, loan elig
   <img src="https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit">
   <img src="https://img.shields.io/badge/Tkinter-GUI-lightgrey">
 </p>
+## 📸 Screenshots
+
+### CLI Version
+![CLI](assets/cli.png)
+
+### GUI Version
+![GUI](assets/gui.png)
+
+### Web Dashboard
+![Web](assets/web1.png)
+![Web](assets/web2.png)
+
