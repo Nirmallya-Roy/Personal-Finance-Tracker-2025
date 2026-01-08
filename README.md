@@ -152,12 +152,5 @@ sudo apt-get install python3-tk
 Your **Personal Finance Tracker** is now running successfully 🎉
 Start adding transactions and explore financial insights.
 
----
-
-If you want, I can also:
-
-* Add a **requirements.txt**
-* Write a **Docker setup**
-* Create a **one-click run guide**
 
 
