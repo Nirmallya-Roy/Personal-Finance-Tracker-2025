@@ -1,0 +1,44 @@
+[
+    {
+        "Date": "2025-01-01",
+        "Category": "Salary",
+        "Amount": 60000.0,
+        "Type": "Income"
+    },
+    {
+        "Date": "2025-01-10",
+        "Category": "Rent",
+        "Amount": -25000.0,
+        "Type": "Expense"
+    },
+    {
+        "Date": "2025-01-15",
+        "Category": "Groceries",
+        "Amount": -8000.0,
+        "Type": "Expense"
+    },
+    {
+        "Date": "2025-02-01",
+        "Category": "Salary",
+        "Amount": 60000.0,
+        "Type": "Income"
+    },
+    {
+        "Date": "2025-02-20",
+        "Category": "Vacation",
+        "Amount": -15000.0,
+        "Type": "Expense"
+    },
+    {
+        "Date": "2025-03-01",
+        "Category": "Salary",
+        "Amount": 60000.0,
+        "Type": "Income"
+    },
+    {
+        "Date": "2025-03-05",
+        "Category": "Utilities",
+        "Amount": -4000.0,
+        "Type": "Expense"
+    }
+]
