@@ -118,8 +118,8 @@ class PersonalFinanceTrackerGUI:
                     row['Date'].strftime('%Y-%m-%d'),
                     row['Type'],
                     row['Category'],
-                    f"₹{row['Amount']:,.2f}",
-                    f"₹{row['Signed']:,+,.2f}"
+                    f"₹{row['Amount']:+,.2f}",
+                    f"₹{row['Signed']:+,.2f}"
                 ))
 
     def show_loan_eligibility(self):

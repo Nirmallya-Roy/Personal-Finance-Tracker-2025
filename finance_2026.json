@@ -1,0 +1,32 @@
+[
+  {
+    "Date": "2026-01-08",
+    "Category": "Salary",
+    "Amount": 150000.0,
+    "Type": "Income"
+  },
+  {
+    "Date": "2026-01-08",
+    "Category": "Home Rent",
+    "Amount": -20000.0,
+    "Type": "Expense"
+  },
+  {
+    "Date": "2026-01-08",
+    "Category": "Bills",
+    "Amount": -20000.0,
+    "Type": "Expense"
+  },
+  {
+    "Date": "2026-01-08",
+    "Category": "Grocery",
+    "Amount": -15000.0,
+    "Type": "Expense"
+  },
+  {
+    "Date": "2026-01-08",
+    "Category": "Medicine",
+    "Amount": -6000.0,
+    "Type": "Expense"
+  }
+]
