@@ -17,12 +17,12 @@ Personal Finance Tracker built with Python to manage income, expenses, loan elig
 ## 📸 Screenshots
 
 ### CLI Version
-![CLI](assets/cli.png)
+![CLI](assets/cli.png.png)
 
 ### GUI Version
-![GUI](assets/gui.png)
+![GUI](assets/gui.png.png)
 
 ### Web Dashboard
-![Web](assets/web1.png)
-![Web](assets/web2.png)
+![Web](assets/web1.png.png)
+![Web](assets/web2.png.png)
 
